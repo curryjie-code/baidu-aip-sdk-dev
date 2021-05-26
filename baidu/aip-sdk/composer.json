@@ -1,0 +1,29 @@
+{
+    "name": "baidu/aip-sdk-dev",
+    "description": "baidu pulic ai php sdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zhangjie",
+            "email": "1095369467@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+	"minimum-stability": "stable",
+	"autoload": {
+        "files": [
+            "lib/AipBase.php",
+            "AipBodyAnalysis.php",
+            "AipContentCensor.php",
+            "AipFace.php",
+            "AipImageClassify.php",
+            "AipImageSearch.php",
+            "AipKg.php",
+            "AipNlp.php",
+            "AipOcr.php",
+            "AipSpeech.php"
+        ]
+    }
+}
