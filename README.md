@@ -21,7 +21,7 @@
 **Composer安装：**
 
 ```
-  composer require baidu/aip-sdk
+  composer require curryjie-code/baidu-aip-sdk-dev
 ```
 
 **手动安装步骤如下：**
